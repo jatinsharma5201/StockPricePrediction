@@ -1,6 +1,4 @@
-Here's a template for a README file you can use for your stock price prediction project. It outlines key sections such as project overview, installation, usage, and an example.
 
----
 
 # Stock Price Prediction
 
