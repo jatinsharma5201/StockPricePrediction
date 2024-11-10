@@ -42,11 +42,7 @@ This repository focuses on predicting stock prices by utilizing various machine 
 
 3. Follow the notebook to load data, select models, and visualize predictions.
 
-## Example
 
-Below is an example of how the predictions will look:
-
-![Prediction Example](example.png)
 
 ## Models Used
 
